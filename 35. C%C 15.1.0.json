@@ -1,8 +1,8 @@
 {
     "credits": "@KafuHex",
-    "showDialog": true,
+    "showDialog": false,
     "title": "Update Available!",
-    "message": "New Mod update is available, to continue in our app please update it.",
+    "message": "New update is available, to continue in our app please update it.",
     "showNegativeButton": true,
     "negativeButtonText": "Click Here To Update",
     "negativeButtonUrl": "https://t.me/+XVXDbe5gwaZhMWE1",
