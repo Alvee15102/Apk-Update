@@ -1,0 +1,13 @@
+{
+    "credits": "@KafuHex",
+    "showDialog": false,
+    "title": "Server Maintenance!",
+    "message": "Server maintenance is in progress, so please wait. Thank you.",
+    "showNegativeButton": true,
+    "negativeButtonText": "Click Here To Update",
+    "negativeButtonUrl": "https://t.me/+pDLo1ABol4o2M2I1",
+    "showPositiveButton": false,
+    "positiveButtonText": "Thanks",
+    "maxShowCount": 3,
+    "controlByShowCount": false
+}
