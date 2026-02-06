@@ -1,6 +1,6 @@
 {
     "credits": "@KafuHex",
-    "showDialog": false,
+    "showDialog": true,
     "title": "Server Maintenance!",
     "message": "Server maintenance is in progress, so please wait. Thank you.",
     "showNegativeButton": true,
