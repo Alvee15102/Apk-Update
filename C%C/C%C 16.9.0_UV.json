@@ -1,0 +1,13 @@
+{
+    "credits": "@KafuHex",
+    "showDialog": false,
+    "title": "Update Available!",
+    "message": "New update is available, to continue in our app please update it.",
+    "showNegativeButton": true,
+    "negativeButtonText": "Click Here To Update",
+    "negativeButtonUrl": "https://t.me/+XVXDbe5gwaZhMWE1",
+    "showPositiveButton": false,
+    "positiveButtonText": "Thanks",
+    "maxShowCount": 3,
+    "controlByShowCount": false
+}com.protonvpn.android.auth.data.VpnUser
