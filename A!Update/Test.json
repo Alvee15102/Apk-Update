@@ -1,6 +1,6 @@
 {
   "showDialog": true,
-  "theme": 0,
+  "theme": 3,
   "themeAutoChange": true,
   "themeSelect": [1,9,20],
   "title": "Update Available!",
