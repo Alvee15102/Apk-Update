@@ -1,7 +1,7 @@
 {
   "showDialog": true,
   "theme": 3,
-  "themeAutoChange": false,
+  "themeAutoChange": true,
   "themeSelect": [1,9,20],
   "title": "Update Available!",
   "message": "New update is available, to continue in our app please update it.",
