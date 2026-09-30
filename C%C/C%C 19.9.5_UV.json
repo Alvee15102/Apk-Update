@@ -1,5 +1,5 @@
 {
-  "ShowDialogbox": false,
+  "ShowDialogbox": true,
   "theme": 3,
   "themeAutoChange": false,
   "themeSelect": [1, 9, 20],
