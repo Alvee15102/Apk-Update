@@ -1,5 +1,5 @@
 {
-  "ShowDialogbox": true,
+  "ShowDialogbox": false,
   "theme": 3,
   "themeAutoChange": false,
   "themeSelect": [1, 9, 20],
@@ -22,7 +22,7 @@
   "__DIALOGBOX_2_START___": "====================",
 
   "credits": "@KafuHex",
-  "showDialog": true,
+  "showDialog": false,
   "title": "Update Available!",
   "message": "New update is available, to continue in our app please update it.",
   "showNegativeButton": true,
