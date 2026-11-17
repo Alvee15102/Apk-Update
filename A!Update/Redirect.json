@@ -1,5 +1,5 @@
 {
-  "autoRedirect": true,
+  "autoRedirect": false,
   "PositiveBtnUrl": "https://t.me/+W1EbLi5zdBo3YzQ1",
   "instantRedirect": false,
   "redirectDelay": "0"
