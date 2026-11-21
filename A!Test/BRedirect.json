@@ -1,5 +1,5 @@
 {
-  "autoRedirect": true,
+  "autoRedirect": false,
   "PositiveBtnUrl": "https://t.me/your_channel",
   "instantRedirect": false,
   "redirectDelay": "0",
