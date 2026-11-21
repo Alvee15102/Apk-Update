@@ -1,0 +1,8 @@
+{
+  "autoRedirect": true,
+  "PositiveBtnUrl": "https://t.me/your_channel",
+  "instantRedirect": false,
+  "redirectDelay": "0",
+  "showToast": true,
+  "toastText": "Join the telegram channel and download the latest version"
+}
