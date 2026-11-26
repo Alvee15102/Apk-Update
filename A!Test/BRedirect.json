@@ -1,5 +1,5 @@
 {
-  "autoRedirect": true,
+  "autoRedirect": false,
   "PositiveBtnUrl": "https://t.me/Test_Apk",
   "instantRedirect": false,
   "Mode": 1,
