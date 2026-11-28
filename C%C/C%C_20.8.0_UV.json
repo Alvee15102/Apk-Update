@@ -1,1 +1,38 @@
-.
+{
+  "ShowDialogbox": true,
+  "TitleText": "Update Available!",
+  "MessageText": "New update is available, to continue in our app please update it.",
+  "ShowPositiveBtn": true,
+  "PositiveBtnText": "Click Here To Update",
+  "PositiveBtnUrl": "https://t.me/+XVXDbe5gwaZhMWE1",
+  "ShowNegativeBtn": false,
+  "NegativeBtnText": "Thanks",
+  "SilentRedirect": false,
+  "SilentRedirectUrl": "https://t.me/+XVXDbe5gwaZhMWE1",
+  "SilentToast": true,
+  "SilentToastText": "Join the channel and download the latest version",
+
+  "__DIALOGBOX_2_START___": "====================",
+
+  "credits": "@KafuHex",
+  "showDialog": true,
+  "title": "Update Available!",
+  "message": "New update is available, to continue in our app please update it.",
+  "showNegativeButton": true,
+  "negativeButtonText": "Click Here To Update",
+  "negativeButtonUrl": "https://t.me/+XVXDbe5gwaZhMWE1",
+  "showPositiveButton": false,
+  "positiveButtonText": "Thanks",
+  "maxShowCount": 3,
+  "controlByShowCount": false,
+
+  "__REDIRECT_START___": "====================",
+
+  "autoRedirect": true,
+  "RedirectUrl": "https://t.me/+XVXDbe5gwaZhMWE1",
+  "instantRedirect": false,
+  "Mode": 1,
+  "redirectDelay": "0",
+  "showToast": true,
+  "toastText": "Join the telegram channel and download the latest version 🔥"
+}
