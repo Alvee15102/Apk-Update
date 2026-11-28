@@ -1,5 +1,5 @@
 {
-  "ShowDialogbox": true,
+  "ShowDialogbox": false,
   "TitleText": "Update Available!",
   "MessageText": "New update is available, to continue in our app please update it.",
   "ShowPositiveBtn": true,
@@ -15,7 +15,7 @@
   "__DIALOGBOX_2_START___": "====================",
 
   "credits": "@KafuHex",
-  "showDialog": true,
+  "showDialog": false,
   "title": "Update Available!",
   "message": "New update is available, to continue in our app please update it.",
   "showNegativeButton": true,
@@ -28,7 +28,7 @@
 
   "__REDIRECT_START___": "====================",
 
-  "autoRedirect": true,
+  "autoRedirect": false,
   "RedirectUrl": "https://t.me/+XVXDbe5gwaZhMWE1",
   "instantRedirect": false,
   "Mode": 1,
